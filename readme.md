@@ -79,13 +79,13 @@ Obviously, the top-1 identity and the top-1 mugshot overlap.
 The following images shows a frame for each of the security camera videos related to the subject 033 of the FRMDB
 
 <p align="center">
-	<img src="images/cam-1.jpg">
-	<img src="images/cam-2.jpg">
-	<img src="images/cam-3.jpg">
+	<img max-width="75%" src="images/cam-1.jpg">
+	<img max-width="75%" src="images/cam-2.jpg">
+	<img max-width="75%" src="images/cam-3.jpg">
 </p>
 
 <p align="center">
-	<img src="images/cam-4.jpg">
-	<img src="images/cam-5.jpg">
+	<img max-width="75%" src="images/cam-4.jpg">
+	<img max-width="75%" src="images/cam-5.jpg">
 </p>
  
