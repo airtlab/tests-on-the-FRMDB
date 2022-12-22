@@ -32,7 +32,7 @@ Such repository includes the Keras conversion of the original CAFFE networks and
 The experiments are based on the FRMDB images and videos. The FRMDB is available in the following public repository: 
 >[LINK HERE](#)
 
-The database includes images and videos of 42 subjects. Specifically, for each subject there are:
+The database includes images and videos of 39 subjects. Specifically, for each subject there are:
 
 - 28 mugshots, i.e., 28 972x544 JPEG image takens from different points of views with the subject posing during the acquisition.
 
@@ -54,7 +54,7 @@ The experiments consists of **8 different tests** to identify the subjects in th
 - *Test 5*, which adds **all the images 30° above the subject** (i.e., 02, 12, 22, 32, 42, 52, 62) to the mugshots of ***Test 4***.
 - *Test 6*, which uses **all the 28 mugshots** available for each subject in the FRMDB.
 
-The following images visualize the subset of mugshots available in each test (the image is related to the subject 033 of the FRMDB).
+The following images visualize the subset of mugshots available in each test (the image is related to the subject 031 of the FRMDB).
 
 ![The sets of mugshots used in each test.](images/tests.gif)
 
@@ -76,7 +76,7 @@ For each test, we measured the capability of VGG16 and ResNet50 to identify the 
 - For the **most similar mugshots**, we compute the accuracy as the **number of security camera images** for which the **correct subject** was in the **top-1**, **top-3**, **top-5**, and **top-10** most similar mugshots **over the total** number of security camera images.
 Obviously, the top-1 identity and the top-1 mugshot overlap.
 
-The following images shows a frame for each of the security camera videos related to the subject 033 of the FRMDB
+The following images shows a frame for each of the security camera videos related to the subject 031 of the FRMDB
 
 <p align="center">
 	<img src="images/cam-1.jpg" alt="Cam 1 example">
