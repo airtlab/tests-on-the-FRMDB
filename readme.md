@@ -30,7 +30,7 @@ Such repository includes the Keras conversion of the original CAFFE networks and
 ## Data Description
 
 The experiments are based on the FRMDB images and videos. The FRMDB is available in the following public repository: 
->[LINK HERE](#)
+>[https://github.com/airtlab/face-recognition-from-mugshots-database](https://github.com/airtlab/face-recognition-from-mugshots-database)
 
 The database includes images and videos of 39 subjects. Specifically, for each subject there are:
 
