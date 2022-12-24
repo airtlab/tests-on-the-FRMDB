@@ -11,7 +11,7 @@ Specifically, the experiments are **accuracy tests of two different Convolutiona
 
 The FRMDB is publicly available in a dedicated GitHub repository:
 
->https://github.com/airtlab/face-recognition-from-mugshots-database(https://github.com/airtlab/face-recognition-from-mugshots-database)
+>[https://github.com/airtlab/face-recognition-from-mugshots-database](https://github.com/airtlab/face-recognition-from-mugshots-database)
 
 Specifically, we tested VGG16 and ResNet50, using the configurations presented in
 
