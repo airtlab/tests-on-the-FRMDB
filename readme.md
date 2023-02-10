@@ -1,9 +1,9 @@
 # Face Recognition Experiments on the Face Recognition from Mugshots Database (FRMDB)
 
 This repository contains the source code of the experiments presented in
-> P. Contardo, P. Sernani, S. Tomassini, N. Falcionelli, M. Martarelli, P. Castellini, A.F. Dragoni, *The Face Recognition from Mugshots Database: a Dataset to Test the Use of Mugshots from Multiple Points of View for Identification*.
+> Contardo, P.; Sernani, P.; Tomassini, S.; Falcionelli, N.; Martarelli, M.; Castellini, P.; Dragoni, A.F. FRMDB: Face Recognition Using Multiple Points of View. Sensors 2023, 23, 1939. <https://doi.org/10.3390/s23041939>
 
-The paper is currently under review for the publication in the [Sensors](https://www.mdpi.com/journal/sensors) journal.
+The paper is published in the special issue [Biometric Recognition System Based on Iris, Fingerprint and Face](https://www.mdpi.com/journal/sensors/special_issues/5ZH0DZ8318) of  the [Sensors](https://www.mdpi.com/journal/sensors) journal. The paper is open access and available here: <https://www.mdpi.com/1424-8220/23/4/1939>
 
 The source code of the experiments on the datasets is contained in a Jupyter notebook, available in the “notebooks” directory of this repository. The notebook is "[Face_Recognition_with_the_Face_Recognition_from_Mugshots_Database_(FRMDB).ipynb](notebooks/Face_Recognition_with_the_Face_Recognition_from_Mugshots_Database_(FRMDB).ipynb)"
 
@@ -88,4 +88,24 @@ The following images shows a frame for each of the security camera videos relate
 	<img src="images/cam-4.jpg" alt="Cam 4 example">
 	<img src="images/cam-5.jpg" alt="Cam 5 example">
 </p>
+
+## Data and Source Code Release Agreement
+
+The source code of the experiments is freely released for research and educational purposes. Please cite as
+- Contardo, P.; Sernani, P.; Tomassini, S.; Falcionelli, N.; Martarelli, M.; Castellini, P.; Dragoni, A.F. FRMDB: Face Recognition Using Multiple Points of View. Sensors 2023, 23, 1939. <https://doi.org/10.3390/s23041939>
  
+Bibtex entry:
+
+	 @article{Contardo2023,
+	   author = {Contardo, Paolo and Sernani, Paolo and Tomassini, Selene and Falcionelli, Nicola and Martarelli, Milena and Castellini, Paolo and Dragoni, Aldo Franco},
+	   title = {{FRMDB}: Face Recognition Using Multiple Points of View},
+	   journal = {Sensors},
+	   volume = {23},
+	   year = {2023},
+	   number = {4},
+	   article-number = {1939},
+	   doi = {10.3390/s23041939}
+	 }
+
+
+The paper is open access and available here: <https://www.mdpi.com/1424-8220/23/4/1939>
