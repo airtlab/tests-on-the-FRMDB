@@ -89,7 +89,7 @@ The following images shows a frame for each of the security camera videos relate
 	<img src="images/cam-5.jpg" alt="Cam 5 example">
 </p>
 
-## Data and Source Code Release Agreement
+## Source Code Release Agreement
 
 The source code of the experiments is freely released for research and educational purposes. Please cite as
 - Contardo, P.; Sernani, P.; Tomassini, S.; Falcionelli, N.; Martarelli, M.; Castellini, P.; Dragoni, A.F. FRMDB: Face Recognition Using Multiple Points of View. Sensors 2023, 23, 1939. <https://doi.org/10.3390/s23041939>
